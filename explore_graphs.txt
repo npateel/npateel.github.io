@@ -1,0 +1,7 @@
+1) Correlation graph
+2) Budget & revenue counts bargraph
+3) Revenue counts bargraph
+4) Budget vs. revenue
+5) Budget vs. vote average
+6) Avg revenue vs. genre
+7) Avg revenue vs. production company
